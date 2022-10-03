@@ -1,0 +1,51 @@
+body {
+background-color: aquamarine;
+margin: 0 auto;
+}
+.header {
+width: 100%;  /* ширина блоку*/
+height: 100px; /* висота блоку */
+background-color: black;
+}
+.main {
+width: 100%; /* ширина блоку */
+height: 1000px; /* висота блоку */
+background-color: rgb(113, 202, 23);
+}
+.footer {
+width: 100%; /*ширина блоку*/
+height: 1000px; /* висота блоку */
+background-color: black;
+}
+.top{
+width: 100%; /шмрина блоky */
+height: 450px;
+border: 1px solid black;
+}
+.bottom {
+width: 100%; /* ширина блоky */
+height: 450px;
+border: 1px solid black;
+}
+photo {
+}
+.info {
+}
+width: 100%; /* ширина блоку */
+height: 450px;
+border: 1px solid black;
+}
+.lesson1 {
+width: 100%;/*ширина блоку*/
+height: 450px;
+border: 1px solid black;
+}
+.lesson2 {
+width: 100%; /* ширина блоку*/
+height: 450px;
+border: 1px solid black;
+}
+lesson3{
+width: 100%; /* ширина блоку */
+height: 450px;
+border: 1px solid black;
